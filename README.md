@@ -65,7 +65,7 @@ The demonstration video is available in the project files.
 
 If the video is uploaded externally, add the video link here:
 
-`Video Link: Add the link here`
+[Watch the simulation video](Semulation.mp4)
 
 ## Expected Result
 
