@@ -48,7 +48,7 @@ The Arduino code is available in the following file:
 
 ## Circuit Image
 
-![Four Servo Motors Circuit](images/circuit.png)
+![Four Servo Motors Circuit](circuit.png)
 
 ## How to Run the Project
 
